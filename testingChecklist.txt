@@ -1,0 +1,51 @@
+1. Create System and Acceptance Tests
+2. Start Acceptance Test Creation
+3. Identify Test team
+4. Create Workplan
+5. Create Test Approach
+6. Link Acceptance Criteria and Requirements to form the basis of Acceptance Test 
+7. Use a subset of system test cases to form requirements portion of Acceptance Test
+8. Create scripts for use by the customer to demonstrate that the system meets requirements
+9. Create a Test schedule. Include people and all other resources
+10. Conduct Acceptance Test
+11. Start System Test Creation
+12. Identify test team members
+13. Create Workplan
+14. Determine Resource Requirements
+15. Identify productivity tools for testing
+16. Determine Data Requirements
+17. Reach an agreement with Data Center
+18. Create Test Approach
+19. Identify any facilities that are needed
+20. Obtain and review existing test material
+21. Create an inventory of test items
+22. Identify Design states, conditions, processes, and procedures
+23. Determine the need for Code-based (white box) testing. Identify conditions
+24. Identify all functional requirements
+25. End inventory creation
+26. Start Test Case creation
+27. Create Test Cases based on the inventory of test items
+28. Identify logical groups of business function for the new system
+29. Divide test cases into functional groups traced to test item inventory
+30. Design data sets to correspond to test cases
+31. End Test Case creation
+32. Review business functions, test cases, and data sets with users
+33. Get signoff on test design from Project leader and QA
+34. End Test Design
+35. Begin Test Preparation
+36. Obtain Test Support resources
+37. Outline expected results for each test case
+38. Obtain Test Data. Validate and trace to test cases
+39. Prepare detailed Test Scripts for each test case
+40. Prepare & Document environmental setup procedures. Include back up and recovery plans
+41. End Test Preparation phase
+42. Conduct System Test
+43. Execute Test Scripts
+44. Compare the actual result to expected
+45. Document discrepancies and create problem report
+46. Prepare maintenance phase input
+47. Re-execute test group after problem repairs
+48. Create a final test report, include known bugs list
+49. Obtain formal signoff
+
+
