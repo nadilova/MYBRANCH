@@ -1,0 +1,8 @@
+1 Title
+2 Environment
+3 Steps to reproduce
+4 Expected result
+5 Actual result
+6 Visual Proof (screenshots, videos, text)
+7 Severity/Priority
+
